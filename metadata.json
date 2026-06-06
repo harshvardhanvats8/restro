@@ -1,0 +1,8 @@
+{
+  "name": "Bansi Vihar Restaurant",
+  "description": "Authentic South Indian flavors, trust, and heritage since generations in Patna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
