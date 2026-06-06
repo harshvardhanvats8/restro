@@ -32,7 +32,7 @@ export const DISHES: Dish[] = [
     tag: 'Authentic Touch',
     spicedLevel: 1,
     isVegetarian: true,
-    image: '/src/assets/images/rava_dosa_premium_1780767624668.png'
+    import ravaDosa from '../assets/images/rava_dosa_premium_1780767624668.png';
   },
   {
     id: '4',
@@ -65,7 +65,7 @@ export const DISHES: Dish[] = [
     tag: 'Local Favorite',
     spicedLevel: 2,
     isVegetarian: true,
-    image: '/src/assets/images/chole_bhature_premium_1780767639364.png'
+    import choleBhature from '../assets/images/chole_bhature_premium_1780767639364.png';
   },
   {
     id: '7',
@@ -87,7 +87,7 @@ export const DISHES: Dish[] = [
     tag: 'Quick Wok',
     spicedLevel: 1,
     isVegetarian: true,
-    image: '/src/assets/images/veg_fried_rice_premium_1780767653338.png'
+    import vegFriedRice from '../assets/images/veg_fried_rice_premium_1780767653338.png';
   },
   {
     id: '9',
